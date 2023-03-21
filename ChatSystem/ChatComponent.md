@@ -70,4 +70,4 @@ This is only for users who are intrested in customizing or understanding this sy
  
 ## Customizing Chat Color And Font  
 Chat component uses [UMGRichTextBlock](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/UMG/UserGuide/UMGRichTextBlock/) syling to apply styles to texts.  
-You can apply your own style by changing TextStyleSet object in ChatMessageWidget (Recomended) or edit the ChatStyle asset directly.
+You can apply your own style by copying ChatStyle asset to you project and set it to your own version in ChatMessageWidget (Recomended) or edit the ChatStyle asset directly.
