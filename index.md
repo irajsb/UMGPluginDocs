@@ -1,3 +1,3 @@
 # components:
 
-- Chat Component 
+- [ChatComponent](https://irajsb.github.io/UMGPluginDocs/ChatSystem/ChatComponent)
