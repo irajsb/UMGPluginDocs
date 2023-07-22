@@ -25,20 +25,20 @@ Then function Is Ping Ready To Destroy is called which you can override to handl
 # Map System Compatibilty 
 You can attach a MapPOI component to any ping (which is recommended) To also draw the pings on the map.
   
-# Properties 
+# Properties
 
-
-| Name   | Type   | Description   |
-| :---   |    :----:   |    :----:     |
-| IsGlobalPing | Bool    | Should this ping spawn for eveyone regardless of team |
-| LifeTime | float    | LifeTime of the ping. if less than zero then its manually handled by you |
-| MaxNumberOfPings | int    | Max number of this ping (will remove older ones if more is spawned) |
+| Name             | Type   | Description                                              |
+| :--------------- | :-----: | :------------------------------------------------------- |
+| IsGlobalPing     | Bool   | Should this ping spawn for everyone regardless of team |
+| LifeTime         | float  | LifeTime of the ping. If less than zero, it's manually handled by you |
+| MaxNumberOfPings | int    | Max number of this ping (will remove older ones if more are spawned) |
 
 # Properties in Chat Component
-| Name   | Type   | Description   |
-| :---   |    :----:   |    :----:     |
-| MinTimeBetweenPings | float    | Anti spam feature |
-| MutePlayerPings | Function    | Anti spam feature (Local only) |
-| UnMutePlayerPings | Function    | Anti spam feature (Local only)|
-| BanPlayerFromChatAndPing | Function    | Anti spam feature (Authority)|
-| UnBanPlayerFromChatAndPing | Function    | Anti spam feature (Authority)|
+
+| Name                 | Type     | Description                                      |
+| :------------------- | :-------: | :----------------------------------------------- |
+| MinTimeBetweenPings  | float    | Anti-spam feature                                |
+| MutePlayerPings      | Function | Anti-spam feature (Local only)                  |
+| UnMutePlayerPings    | Function | Anti-spam feature (Local only)                  |
+| BanPlayerFromChatAndPing | Function | Anti-spam feature (Authority)                |
+| UnBanPlayerFromChatAndPing | Function | Anti-spam feature (Authority)              |
