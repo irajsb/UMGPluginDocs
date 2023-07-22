@@ -1,7 +1,7 @@
 # Chat Component is a class that handles replication and data for chat system
   
 ## Initial Setup
-- Add chat component to player state  
+- Add Chat component to Player Controller  
 
 
 ![](./Images/ChatComponentAdding.png)  
