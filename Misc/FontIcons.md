@@ -1,5 +1,5 @@
 # Font Icons
-Thousands of icons in form of a font. Compact and Well designed icons!
+3100 icons  in less than 2 MB of data! Compact and Well designed icons with multiple styles (rounded filled etc...)!
 ![](./FontIcons.png)
 ## How to use
 - Add font icon widget
