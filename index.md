@@ -11,3 +11,5 @@
 - [KeyPrompts](https://irajsb.github.io/UMGPluginDocs/Misc/KeyPrompts)
 
 - [Touch](https://irajsb.github.io/UMGPluginDocs/Touch/Touch)
+
+- [RadialMenu](https://irajsb.github.io/UMGPluginDocs/Misc/RadialMenu)
