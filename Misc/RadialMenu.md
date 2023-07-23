@@ -1,5 +1,5 @@
 # This Radial Menu dynamicaly can accept children without any need for building static textures.
-
+` Examples are placed in WB_RadialMenum, PingSpawner and WB_Mobile in plugin content`
 ![](./RadialMenu.png)
 
 # How To Use
