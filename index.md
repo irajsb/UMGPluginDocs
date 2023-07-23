@@ -8,8 +8,16 @@
 
 - [MapSystem](https://irajsb.github.io/UMGPluginDocs/MapSystem/MapSystem)
 
+- [WindowSystem](https://irajsb.github.io/UMGPluginDocs/WindowSystem/WindowSystem)
+
 - [KeyPrompts](https://irajsb.github.io/UMGPluginDocs/Misc/KeyPrompts)
 
 - [Touch](https://irajsb.github.io/UMGPluginDocs/Touch/Touch)
 
 - [RadialMenu](https://irajsb.github.io/UMGPluginDocs/Misc/RadialMenu)
+
+- [Graphs](https://irajsb.github.io/UMGPluginDocs/Misc/Graph)
+
+- [VirtualCursor](https://irajsb.github.io/UMGPluginDocs/Misc/VirtualCursor)
+
+- [Placeholder Settings widget](https://irajsb.github.io/UMGPluginDocs/Misc/Settings)
