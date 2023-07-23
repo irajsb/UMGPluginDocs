@@ -2,11 +2,12 @@
 ` Examples placed in WB_Touch in plugin content`
 
 
- <iframe width="560" height="315"
+ <iframe width="900" height="600"
 src="https://www.youtube.com/embed/GQbN8Res764" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+
 ## Titan Panner minimal
 Handles panning and swiping inputs. 
 
@@ -16,6 +17,9 @@ Same as Titan Panner minimal but handles pinch and pinch angle. Can draw text as
 ## Titan Joystick
 A UMG animatable joystick. Can be 2D or 1D.
 
+## Input handling
+You can handle input either by using the events or by adding keys to their respective type in properties 
+![](./Key.png)
 # Titan Panner Minimal
 
 
