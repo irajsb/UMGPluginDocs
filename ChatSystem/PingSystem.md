@@ -1,4 +1,5 @@
-# Ping system is a tool that can spawn networked pings using the chat component 
+# Ping system
+ Ping System is a tool that can spawn networked pings using the chat component 
   ![](./Images/Ping.png)  
 # Initial Setup
 - Add Chat component to Player Controller  
@@ -14,7 +15,8 @@
 # Setting up a ping
 Examples are placed in Plugins/TitanUMG/Content/UMG/PingSystem/LocationPing  
 You can create a Ping by making a child bp of PingActor class.
-PingActor by default inherits a sphere collision and a TitanWidgetComponent. You've to set the widget class on Widget component (this widget component remains on screen even the actor is outside of current camera view )  
+PingActor by default inherits a sphere collision and a TitanWidgetComponent.  
+ You've to set the widget class on Widget component (this widget component remains on screen even the actor is outside of current camera view )  
 
 However you can attach any kind of visual representation to this ping actor.
 
