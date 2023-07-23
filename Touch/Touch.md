@@ -1,5 +1,12 @@
 # This plugin handles touch using three components 
+` Examples placed in WB_Touch in plugin content`
 
+
+ <iframe width="560" height="315"
+src="https://www.youtube.com/embed/GQbN8Res764" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 ## Titan Panner minimal
 Handles panning and swiping inputs. 
 
