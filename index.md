@@ -20,4 +20,6 @@
 
 - [VirtualCursor](https://irajsb.github.io/UMGPluginDocs/Misc/VirtualCursor)
 
+- [FontIcons](https://irajsb.github.io/UMGPluginDocs/Misc/FontIcons)
+
 - [Placeholder Settings widget](https://irajsb.github.io/UMGPluginDocs/Misc/Settings)

@@ -6,6 +6,7 @@ This text can be replaced in WB_General in settings widget of this plugin conten
 
 ## Notes:
  - Apply sound settings in begining of gameplay.
+ - You need to apply your sounds classes and soundmix to WB_Audio widget or use the ones provided as example.
  - Other settings are child of game user settings which are applied by unreal engine.
  - Resolution settings are not recommended for non PC platforms and are disabled by default. however resolution scale is a good option for mobile devices to reduce load.
  - Add you gameplay related Settings General tab.
