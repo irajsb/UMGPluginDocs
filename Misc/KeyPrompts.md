@@ -19,3 +19,7 @@ You can get brush for a key
 # Adding custom key prompts:
 You can add your own key prompts to the sytem. Create a data table with row structure of TitanRichImageRow, Populate it and add it to array located in TitanUMG project settings
 ![](./PromptArraypng.png) 
+
+# Extra Platforms
+You can get the icons for extra platforms [here](./ExtraPlatforms.zip) If you have the lisence to use the icons .
+Paste the folder on top of existing folder and add the data tables to array in project settings!
