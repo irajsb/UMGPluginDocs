@@ -1,8 +1,8 @@
 import os
 import json
 
-def generate_json(base_dir):
-    json_data = []  # Initialize an empty list to store JSON objects
+def generate_json(base_dir, array_field_name):
+    json_data = {array_field_name: []}  # Initialize a dictionary with the array field name as key
 
     # Iterate through directories and files recursively
     for root, dirs, files in os.walk(base_dir):
@@ -22,13 +22,14 @@ def generate_json(base_dir):
             # Create a dictionary representing the JSON object
             json_object = {"URL": url, "TargetFolder": target_folder}
             # Append the JSON object to the list
-            json_data.append(json_object)
+            json_data[array_field_name].append(json_object)
 
     return json_data
 
 def main():
     base_directory = '.'  # Set the base directory to the current directory
-    json_data = generate_json(base_directory)
+    array_field_name = 'Files'  # Name of the array field
+    json_data = generate_json(base_directory, array_field_name)
 
     # Write the JSON data to a file
     with open('file_mapping.json', 'w') as json_file:

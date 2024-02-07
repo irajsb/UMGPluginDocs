@@ -1,22 +1,24 @@
-[
-    {
-        "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GameIcons/BP_GameIcons.uasset",
-        "TargetFolder": "/FontIcons/Content/Fonts/GameIcons/BP_GameIcons.uasset"
-    },
-    {
-        "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GameIcons/DT_GameIcons.uasset",
-        "TargetFolder": "/FontIcons/Content/Fonts/GameIcons/DT_GameIcons.uasset"
-    },
-    {
-        "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GameIcons/FF_GameIcons.uasset",
-        "TargetFolder": "/FontIcons/Content/Fonts/GameIcons/FF_GameIcons.uasset"
-    },
-    {
-        "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GameIcons/F_GameIcons.uasset",
-        "TargetFolder": "/FontIcons/Content/Fonts/GameIcons/F_GameIcons.uasset"
-    },
-    {
-        "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GameIcons/GameIcons_0_Font.uasset",
-        "TargetFolder": "/FontIcons/Content/Fonts/GameIcons/GameIcons_0_Font.uasset"
-    }
-]
+{
+    "Files": [
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GameIcons/BP_GameIcons.uasset",
+            "TargetFolder": "/FontIcons/Content/Fonts/GameIcons/BP_GameIcons.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GameIcons/DT_GameIcons.uasset",
+            "TargetFolder": "/FontIcons/Content/Fonts/GameIcons/DT_GameIcons.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GameIcons/FF_GameIcons.uasset",
+            "TargetFolder": "/FontIcons/Content/Fonts/GameIcons/FF_GameIcons.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GameIcons/F_GameIcons.uasset",
+            "TargetFolder": "/FontIcons/Content/Fonts/GameIcons/F_GameIcons.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GameIcons/GameIcons_0_Font.uasset",
+            "TargetFolder": "/FontIcons/Content/Fonts/GameIcons/GameIcons_0_Font.uasset"
+        }
+    ]
+}
