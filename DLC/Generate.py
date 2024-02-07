@@ -19,6 +19,7 @@ def generate_json(base_dir, array_field_name):
             target_folder = f"/FontIcons/{os.path.relpath(os.path.join(root, file), base_dir)}"
             # Replace backslashes with forward slashes in the target folder path
             target_folder = target_folder.replace('\\', '/')
+            target_folder = target_folder.replace('/FontIcons/Content', '')
             # Create a dictionary representing the JSON object
             json_object = {"URL": url, "TargetFolder": target_folder}
             # Append the JSON object to the list
