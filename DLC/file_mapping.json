@@ -1,6 +1,42 @@
 {
     "Files": [
         {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/FontAwesome/BP_FA.uasset",
+            "TargetFolder": "/Fonts/FontAwesome/BP_FA.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/FontAwesome/DT_FontAwesome.uasset",
+            "TargetFolder": "/Fonts/FontAwesome/DT_FontAwesome.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/FontAwesome/DT_FontAwesomeSolid.uasset",
+            "TargetFolder": "/Fonts/FontAwesome/DT_FontAwesomeSolid.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/FontAwesome/FA_Regular.uasset",
+            "TargetFolder": "/Fonts/FontAwesome/FA_Regular.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/FontAwesome/FA_Solid.uasset",
+            "TargetFolder": "/Fonts/FontAwesome/FA_Solid.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/FontAwesome/FontAwesome.uasset",
+            "TargetFolder": "/Fonts/FontAwesome/FontAwesome.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/FontAwesome/FontAwesomeSolid.uasset",
+            "TargetFolder": "/Fonts/FontAwesome/FontAwesomeSolid.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/FontAwesome/F_FA.uasset",
+            "TargetFolder": "/Fonts/FontAwesome/F_FA.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/FontAwesome/F_FASolid.uasset",
+            "TargetFolder": "/Fonts/FontAwesome/F_FASolid.uasset"
+        },
+        {
             "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GameIcons/BP_GameIcons.uasset",
             "TargetFolder": "/Fonts/GameIcons/BP_GameIcons.uasset"
         },
