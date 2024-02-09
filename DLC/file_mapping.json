@@ -87,6 +87,30 @@
         {
             "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GIcons/material-icons.uasset",
             "TargetFolder": "/Fonts/GIcons/material-icons.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/Pixel/BP_Pixel.uasset",
+            "TargetFolder": "/Fonts/Pixel/BP_Pixel.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/Pixel/DT_Pixel.uasset",
+            "TargetFolder": "/Fonts/Pixel/DT_Pixel.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/Pixel/FF_Pixel.uasset",
+            "TargetFolder": "/Fonts/Pixel/FF_Pixel.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/Pixel/F_Pixel.uasset",
+            "TargetFolder": "/Fonts/Pixel/F_Pixel.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/Pixel/pixel.uasset",
+            "TargetFolder": "/Fonts/Pixel/pixel.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/Pixel/PixelResult_Font.uasset",
+            "TargetFolder": "/Fonts/Pixel/PixelResult_Font.uasset"
         }
     ]
 }
