@@ -7,7 +7,7 @@ Resizable and draggable window system for pc and touch
 - Drag Titan Window into a `Canvas Panel `.
 - Drag the content to the window.
 
-<video src="irajsb.github.io/UMGPluginDocs/WindowSystem/Sample.mp4" controls="controls" style="max-width: 730px;">
+<video src="./Sample.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 # Properties
