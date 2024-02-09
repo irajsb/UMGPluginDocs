@@ -55,6 +55,38 @@
         {
             "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GameIcons/GameIcons_0_Font.uasset",
             "TargetFolder": "/Fonts/GameIcons/GameIcons_0_Font.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GIcons/BP_MaterialIcons.uasset",
+            "TargetFolder": "/Fonts/GIcons/BP_MaterialIcons.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GIcons/DT_MaterialIconsSharp-Regular_Font.uasset",
+            "TargetFolder": "/Fonts/GIcons/DT_MaterialIconsSharp-Regular_Font.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GIcons/F_MaterialIconsSharp-Regular_Font.uasset",
+            "TargetFolder": "/Fonts/GIcons/F_MaterialIconsSharp-Regular_Font.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GIcons/material-icons-outlined.uasset",
+            "TargetFolder": "/Fonts/GIcons/material-icons-outlined.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GIcons/material-icons-round.uasset",
+            "TargetFolder": "/Fonts/GIcons/material-icons-round.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GIcons/material-icons-sharp.uasset",
+            "TargetFolder": "/Fonts/GIcons/material-icons-sharp.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GIcons/material-icons-two-tone.uasset",
+            "TargetFolder": "/Fonts/GIcons/material-icons-two-tone.uasset"
+        },
+        {
+            "URL": "https://irajsb.github.io/UMGPluginDocs/DLC/Content/Fonts/GIcons/material-icons.uasset",
+            "TargetFolder": "/Fonts/GIcons/material-icons.uasset"
         }
     ]
 }
