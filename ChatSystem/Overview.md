@@ -2,7 +2,7 @@
 <video src="https://raw.githubusercontent.com/irajsb/UMGPluginDocs/main/ChatSystem/Overview.mp4" controls="controls" style="max-width: 500px;">
 </video>
 
-
+### [Click here for Quick Start](https://irajsb.github.io/UMGPluginDocs/ChatSystem/ChatComponent)
 Although the system is usable as it is, I would like to paint a picture of how it works because the main key point of this system is its modularity and ability to combine the parts to achieve the desired result. Here is a short description of important parts of each system:
 
 ## Chat System
