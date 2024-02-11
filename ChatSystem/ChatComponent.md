@@ -2,11 +2,11 @@
 Chat Component is a class that handles replication and data for the chat system.
 
 ## Initial Setup
-- Add Chat component to the Player Controller.
+- Add Chat Component to your Player State Blueprint.
 
 ![Chat Component Adding](./Images/ChatComponentAdding.png)
 
-- Add the chat widget to any widget and add it to the screen once the chat component is initialized (e.g., in the Begin Play of the player controller with a delay of 0.2).
+- Add the chat widget to any widget and add it to the screen once the chat component is initialized (e.g., in the Begin Play of the player controller with a delay of 0.2 for allowing multiplayer data to load up correctly).
 
 ![Add Chat Widget](./Images/AddChatWidget.png)
 
