@@ -2,14 +2,13 @@
 # Radial Menu Widget
 This Radial Menu dynamically accepts children without the need for building static textures.
 
-Examples are placed in WB_RadialMenu, PingSpawner, and WB_Mobile in the plugin content.
 
 ![Radial Menu](./RadialMenu.png)
 
 ## How To Use
 - Drag the Radial Menu to your widget.
-- Add children by dragging and dropping them into the menu. Buttons can also be added if you want to simulate hovering effects (buttons will be cosmetic only).
-- Pass input to the Radial Menu using one of these functions:
+- Radial Menu accepts child widgets like any other panel in unreal engine. Add children by dragging and dropping them into the menu. Buttons can also be added if you want to simulate hovering effects (buttons will be cosmetic only).
+- Pass the user input to the Radial Menu using one of these functions:
 
 ![Radial Menu Functions](./RadialMenuFuncs.png)
 
